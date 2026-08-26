@@ -1,0 +1,5 @@
+:HL["./_next/static/chunks/18c8_tdzl4rvx.css","style"]
+:HL["./game-assets/expanded/menu/recreio-lettering.png","image"]
+:HL["./brand/poses/reio-acenando.png","image"]
+:HL["./brand/logo-recreio.png","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"HAPtU_y2iqQSqmndUQsWt"}

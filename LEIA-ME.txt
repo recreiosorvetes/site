@@ -1,0 +1,10 @@
+RECREIO DOS SONHOS — PACOTE PARA GITHUB
+
+1. Abra a pasta recreio-site-github.
+2. Envie todo o conteúdo dela para a raiz do seu repositório no GitHub.
+3. No GitHub, abra Settings > Pages.
+4. Em Source, escolha Deploy from a branch.
+5. Selecione a branch main e a pasta /(root), depois salve.
+
+O arquivo inicial é index.html.
+Mantenha a pasta _next e o arquivo .nojekyll no repositório.
